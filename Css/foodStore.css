@@ -1,0 +1,18 @@
+body{
+    box-sizing: border-box;
+}
+.bg-img {
+    box-sizing: border-box;
+    width: 100vw;
+    height: 90vh;
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Food%20Store/foodmunch-banner-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: auto;
+
+}
